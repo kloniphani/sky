@@ -25,7 +25,7 @@ simple node
 simple provider extends node
 {
     parameters:
-        sendMsgOnInit = true;
+        sendMsgOnInit = false;
         @display("i=block/routing,white");
 }
 
