@@ -35,4 +35,11 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 		<nature>org.omnetpp.main.omnetppnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>support/BackhauilingTopology.json</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/Kloniphani/source/repos/Exocoetidae/Project%20Wing/Source/Topology/BackhauilingTopology.json</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
