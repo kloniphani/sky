@@ -1,0 +1,3 @@
+package sky;
+
+@license(LGPL);
